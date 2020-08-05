@@ -1,6 +1,6 @@
 # memorize
 
-A new Flutter application.
+Memorize game in Flutter with Mobx
 
 ## Getting Started
 
